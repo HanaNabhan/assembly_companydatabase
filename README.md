@@ -1,7 +1,7 @@
 ## Employee Management System using Binary Search Tree
 This project is an Employee Management System implemented using a binary search tree data structure. The program allows you to perform various operations related to managing employee data. The system is implemented in MIPS assembly language.
 
-#Features
+# Features
 The Employee Management System provides the following features:
 
 Adding a new employee (A): Adds a new employee to the company's records.
